@@ -8,7 +8,7 @@
 #
 # - Code functionality: time_series_global_ave_precip.m: This code plots the global land precipitation anomalies for the period 1891-2019 for a variety of datasets
 			time_series_global_ave_precip_decadal.m: This code plots the decadal means of global land precipitation anomalies for the period 1891-2019 for a variety of datasets
-# - Input data: MATLAB file of global land precipitation anomalies from a variety of datasets. The file can be accessed at: *Link to CEDA catalogue*
+# - Input data: MATLAB file of global land precipitation anomalies from a variety of datasets. The file can be accessed at: https://catalogue.ceda.ac.uk/uuid/70276cf6b04e4b638b4fe9b37f7651dd
 # - Output variables: The code plots figure 2.15 panel c as in the report
 #
 # ----------------------------------------------------------------------------------------------------
