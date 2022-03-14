@@ -7,7 +7,7 @@
 # --------------------------------------------------------------------------------------------------------------------
 #
 # - Code functionality: trendmap_gpcp25_v23_19802019.m: This code calculates the trends in precipitation for the period 1980-2019 using OLS regression with significance assessed following AR(1) adjustment after Santer et al. (2008)
-# - Input data: NetCDF file of gridded global precipitation from GPCP V2.3 dataset. The file can be accessed at: *Link to CEDA catalogue*
+# - Input data: NetCDF file of gridded global precipitation from GPCP V2.3 dataset. The file can be accessed at: https://catalogue.ceda.ac.uk/uuid/70276cf6b04e4b638b4fe9b37f7651dd
 # - Output variables: The code plots figure 2.15 panel f as in the report
 #
 # ----------------------------------------------------------------------------------------------------
